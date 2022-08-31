@@ -24,12 +24,12 @@ for (let saludo = 1; saludo <= 20; saludo++){
 } */
 
 // ejemplo WHILE
-/* let usuario = prompt("Ingresa tu Login")
+let usuario = prompt("Ingresa tu Login")
 let password = prompt("Ingresa tu contraseña")
 
 while (password != 4321){
     alert("Contraseña Inválida")
     usuario = prompt("Ingresa tu Login")
     password = prompt("Ingresa tu contraseña")
-} */
+}
 
